@@ -16,14 +16,14 @@ iOS Simple PullToRefresh Library.
 
 ![sample](Screenshots/PullToRefreshSwift.gif)
 
-##Installation
+## Installation
 
-####CocoaPods
+#### CocoaPods
 ```
 pod 'PullToRefreshSwift'
 ```
 
-####Manually
+#### Manually
 Add the following files to your project. 
 `pulltorefresharrow.png`
 `PullToRefreshView.swift`
@@ -31,9 +31,9 @@ Add the following files to your project.
 `UIScrollViewExtension.swift`
 
 
-##Usage
+## Usage
 
-###Setup
+### Setup
 
 In your UIViewController Including UITableView, UICollectionView, UIScrollView:
 ```swift
